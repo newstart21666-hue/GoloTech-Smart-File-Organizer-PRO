@@ -28,13 +28,11 @@ The application provides a graphical interface for organizing files by type, mon
 
 ## Screenshots
 
-Application screenshots will be updated in a future release.
+### Application Interface
+![GoloTech Smart File Organizer Interface](screenshots/main-interface%20(2).png)
 
-## Project Status
-
-Portfolio showcase completed.
-
-The application source code is proprietary and is not publicly available.
+### Successful Organization
+![GoloTech Smart File Organizer Success](screenshots/organization-success(3).png)
 
 ## Example Workflow
 
