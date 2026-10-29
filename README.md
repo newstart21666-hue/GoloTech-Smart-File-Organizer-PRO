@@ -25,15 +25,16 @@ The application provides a graphical interface for organizing files by type, mon
 - Git & GitHub
 
 
+
 ## Screenshots
 
-### Application Dashboard
+Application screenshots will be updated in a future release.
 
-![GoloTech Smart File Organizer PRO Dashboard](screenshots/main-interface%20(2).png)
+## Project Status
 
-### Successful File Organization
+Portfolio showcase completed.
 
-![Successfully Organized 126 Files](screenshots/organization-success-2.png)
+The application source code is proprietary and is not publicly available.
 
 ## Example Workflow
 
