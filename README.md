@@ -24,15 +24,16 @@ The application provides a graphical interface for organizing files by type, mon
 - JSON-based Operation Logs
 - Git & GitHub
 
+
 ## Screenshots
 
 ### Application Dashboard
 
-*Screenshot coming soon.*
+![GoloTech Smart File Organizer PRO Dashboard](screenshots/main-interface%20(2).png)
 
 ### Successful File Organization
 
-*Screenshot coming soon.*
+![Successfully Organized 126 Files](screenshots/organization-success-2.png)
 
 ## Example Workflow
 
