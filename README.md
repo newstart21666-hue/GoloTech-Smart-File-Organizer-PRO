@@ -23,17 +23,15 @@ The application provides a graphical interface for organizing files by type, mon
 - File System Automation
 - JSON-based Operation Logs
 - Git & GitHub
-
 ## Screenshots
 
 ### Application Interface
 
-![GoloTech Smart File Organizer Interface](screenshots/main-interface%282%29.png)
+![GoloTech Smart File Organizer Interface](main-interface%20%282%29.png)
 
 ### Successful Organization
 
-![GoloTech Smart File Organizer Success](screenshots/organization-success%283%29.png)
-
+![GoloTech Smart File Organizer Success](organization-success%283%29.png)
 ## Example Workflow
 
 1. Select a target folder.
